@@ -15,7 +15,7 @@ For each ecosystem component, we present:
 
 These data can be foud in the Response_time.R file.
 
-## Code software
+## Code
 
 To test whether high, moderate and low sensitivities (response time intervals of 1-10, 10-100 and >100 years) were randomly distributed among the observed critical threshold locations (n = 22), we conducted permutation tests using the R software. We first estimated the probability that the observed mean latitude of critical thresholds with low sensitivity (i.e., thresholds for which the maximum response time was >100 years, n = 8) was lower or higher than expected by chance. We computed the mean latitude for each possible permutation (n = 319,770). Using the resulting distribution, we calculated the p-value to determine if the observed mean latitude was unlikely to appear in a random situation. Following the same method, we estimated the probability that the observed mean latitude of critical thresholds with high and moderate sensitivity (i.e., critical thresholds for which the minimum response time was 1-10 years, n = 3; 1,540 permutations, and critical thresholds with a response time of 10-100 years, n = 14; 319,770 permutations), was lower or higher than expected by chance. 
 
